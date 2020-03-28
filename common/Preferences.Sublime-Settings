@@ -1,0 +1,16 @@
+{
+	"anaconda_linting": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		}
+	],
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "predawn-DEV.sublime-theme"
+}
